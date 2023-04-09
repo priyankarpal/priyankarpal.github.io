@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Started Open Source Contributions",
+        "description": "Started learning how to contribute to Open Source and contributed some Open Source Projects",
+        "date": "November 2022"
+    },
+    {
+        "title": "Created Open Source Project",
+        "description": "Created ProjectsHut Open Source website. A place where you will find lots of cool projects",
+        "date": "February 2023",
+        "link": "https://github.com/priyankarpal/ProjectsHut"
+    },
+    {
+        "title": "Contributor to Maintainer",
+        "description": "From a great meeting to a new journey as a maintainer of the GitOpener OSS project",
+        "date": "March 2023",
+        "link": "https://github.com/pbclife/gitopener.vercel.app"
+    }
+]
