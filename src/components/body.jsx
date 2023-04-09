@@ -18,7 +18,7 @@ function Body() {
             alt="priyankarpal"
             className="h-20 rounded-full"
           />
-          <h1 className="text-3xl font-semibold">hi there!</h1>
+          <h1 className="text-3xl font-semibold">Hi there!</h1>
           {/* For socials icons */}
           <Socials />
         </div>
