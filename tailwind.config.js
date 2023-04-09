@@ -5,6 +5,7 @@ export default {
     extend: {
       fontFamily: {
         sans: ["JetBrains Mono", "monospace"],
+        dancingScript: ["Dancing Script", "cursive"],
       },
     },
   },
