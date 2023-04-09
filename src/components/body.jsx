@@ -10,7 +10,7 @@ import experience from "../DB/experience.json";
 function Body() {
   return (
     <section className="flex flex-wrap h-full">
-      <article className="w-[16rem] mx-auto  md:w-1/2 lg:w-1/2">
+      <article className="w-[18rem] mx-auto  md:w-1/2 lg:w-1/2">
         <div className="flex flex-wrap items-center gap-5">
           <img
             // Change the image to your own image
