@@ -30,5 +30,33 @@
     {
         "name": "VS Code",
         "image": "https://sparkcdneus2.azureedge.net/sparkimageassets/XP9KHM4BK9FZ7Q-63e59db4-cf83-46b7-9365-0c37221b94de"
+    },
+    {
+        "name": "Android Studio",
+        "image": "https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png"
+    },
+    {
+        "name": "C ",
+        "image": "https://img.icons8.com/color/512/c-programming.png"
+    },
+    {
+        "name": "C++ ",
+        "image": "https://prasadcomputer.com/image/cplus.png"
+    },
+    {
+        "name": "Flutter ",
+        "image": "https://plugins.jetbrains.com/files/13666/255691/icon/pluginIcon.png"
+    },
+    {
+        "name": "Dart ",
+        "image": "https://avatars.githubusercontent.com/u/1609975?s=280&v=4"
+    },
+    {
+        "name": "Vercel ",
+        "image": "https://karmanivero.us/assets/images/logo-vercel.png"
+    },
+    {
+        "name": "GitHub ",
+        "image": "https://pngimg.com/d/github_PNG27.png"
     }
 ]
