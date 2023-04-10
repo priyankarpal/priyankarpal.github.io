@@ -11,14 +11,16 @@ function Body() {
   return (
     <section className="flex flex-wrap h-full">
       <article className="w-[18rem] mx-auto  md:w-1/2 lg:w-1/2">
-        <div className="flex flex-wrap items-center gap-5">
+        <div className="flex flex-wrap items-center gap-6">
           <img
             // Change the image to your own image
             src="https://github.com/priyankarpal.png"
             alt="priyankarpal"
             className="h-20 rounded-full"
           />
-          <h1 className="text-3xl font-semibold font-dancingScript tracking-widest">Hi there!</h1>
+          <h1 className="text-4xl font-semibold font-dancingScript tracking-widest">
+            Hi there!
+          </h1>
           {/* For socials icons */}
           <Socials />
         </div>
