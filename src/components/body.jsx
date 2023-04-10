@@ -11,7 +11,7 @@ function Body() {
   return (
     <section className="flex flex-wrap h-full">
       <article className="w-[18rem] mx-auto  md:w-1/2 lg:w-1/2">
-        <div className="flex flex-wrap items-center gap-6">
+        <div className="flex flex-wrap items-center gap-6 text-[1.4rem]">
           <img
             // Change the image to your own image
             src="https://github.com/priyankarpal.png"
