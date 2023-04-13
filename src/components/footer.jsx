@@ -16,7 +16,7 @@ function Footer() {
             href="https://github.com/priyankarpal/Portfolio"
             target="_blank"
           >
-            <p className="hidden md:visible"> Contribute here</p> <BiGitRepoForked  />
+            <p className="hidden lg:visible"> Contribute here</p> <BiGitRepoForked  />
           </a>
       </div>
     </footer>
