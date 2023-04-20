@@ -7,7 +7,7 @@ function Experience({ title, link, description, date }) {
         <h5 className="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-white line-clamp-2  ">
           {title}
         </h5>
-        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2 line-clamp-1">
+        <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2 line-clamp-1">
           {date}
         </span>
 
