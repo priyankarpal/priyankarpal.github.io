@@ -24,27 +24,27 @@ function Body() {
           {/* For socials icons */}
           <Socials />
         </div>
-        <p className=" text-gray-700 pt-5">
+        <p className=" text-gray-700 dark:text-gray-400 pt-5">
           <span className="text-green-400"> -</span> 👶 I'm Priyankar Pal a
           front-end web developer from India.
         </p>
-        <p className="text-gray-700">
+        <p className="text-gray-700 dark:text-gray-400">
           {" "}
           <span className="text-green-400"> -</span> 👨‍💻 A Open Source
           contributor became a Maintainer.
         </p>
-        <p className="text-gray-700">
+        <p className="text-gray-700 dark:text-gray-400">
           {" "}
           <span className="text-green-400"> -</span> ⚒️ Mainly I work with
           JavaScript and TailWind CSS on a daily basis.
         </p>
-        <p className="text-gray-700">
+        <p className="text-gray-700 dark:text-gray-400">
           {" "}
           <span className="text-green-400"> -</span> 🤡 Also, I create memes on
           code.
         </p>
 
-        <p className="pt-5 pb-5 text-gray-700">
+        <p className="pt-5 pb-5 text-gray-700 dark:text-gray-400">
           As a first-year CSE student specializing in ReactJS development,
           proficiency in contributing to a variety of open-source projects and
           an avid Linux user, there is always a desire to improve my abilities
