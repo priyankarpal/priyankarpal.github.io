@@ -11,9 +11,7 @@ function Experience({ title, link, description, date }) {
           {date}
         </span>
 
-        <p className="mb-3  text-gray-700 dark:text-gray-400 line-clamp-3">
-          {description}
-        </p>
+        <p className="mb-3  text-gray-700 dark:text-gray-400">{description}</p>
         <a
           href={link}
           target="_blank"
