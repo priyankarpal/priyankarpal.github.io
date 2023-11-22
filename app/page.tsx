@@ -21,6 +21,7 @@ export default function Home() {
         <Image
           src="/hello.jpg"
           alt="hello world!"
+          loading="lazy"
           className="rounded-sm"
           width={200}
           height={200}
