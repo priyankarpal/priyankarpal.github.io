@@ -2,8 +2,6 @@ Yo, everyone! It's a simple and minimalist portfolio site that's also open sourc
 
 I hope you like it!
 
-![Portfolio](/assets/images/pfp.png)
-
 To develop this project I've used Next.js, Tailwind CSS. Run this project on local machine using the following commands:
 
 - To install all the dependencies
