@@ -19,7 +19,7 @@ export default function Home() {
     <section className="flex justify-center items-center m-6 sm:mt-8 sm:mb-8 ">
       <main className=" w-[60rem] flex flex-col items-start ">
         <Image
-          src="/hello.jpg"
+          src="/hello.webp"
           alt="hello world!"
           loading="lazy"
           className="rounded-sm"
