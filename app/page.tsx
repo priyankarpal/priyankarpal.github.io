@@ -1,4 +1,5 @@
 import GSSOC from "@/components/community/gssoc";
+import Hacktoberfest from "@/components/community/hacktoberfest";
 import ReactPlay from "@/components/community/reactplay";
 import GoGreen from "@/components/projects/gogreen";
 import ProjectsHut from "@/components/projects/projectshut";
@@ -99,6 +100,7 @@ export default function Home() {
             <p className="font-semibold">*working with communities</p>
             {/*  according to the date  */}
             <ReactPlay />
+            <Hacktoberfest />
             <GSSOC />
             <p className="pl-2">
               not only am i involved in these communities, but i also
