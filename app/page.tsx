@@ -19,14 +19,14 @@ export default function Home() {
   return (
     <section className="flex justify-center items-center m-6 sm:mt-8 sm:mb-8 ">
       <main className=" w-[60rem] flex flex-col items-start ">
-        <Image
+{/*         <Image
           src="/hello.webp"
           alt="hello world!"
           loading="lazy"
           className="rounded-sm"
           width={200}
           height={200}
-        />
+        /> */}
         <h1 className="text-4xl font-semibold mt-2">Priyankar Pal</h1>
 
         {/* for social media */}
