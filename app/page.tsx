@@ -3,7 +3,6 @@ import Hacktoberfest from "@/components/community/hacktoberfest";
 import ReactPlay from "@/components/community/reactplay";
 import GoGreen from "@/components/projects/gogreen";
 import ProjectsHut from "@/components/projects/projectshut";
-import Image from "next/image";
 export default function Home() {
   // social media links
   const github_url = "http://github.com/priyankarpal";
@@ -19,14 +18,6 @@ export default function Home() {
   return (
     <section className="flex justify-center items-center m-6 sm:mt-8 sm:mb-8 ">
       <main className=" w-[60rem] flex flex-col items-start ">
-{/*         <Image
-          src="/hello.webp"
-          alt="hello world!"
-          loading="lazy"
-          className="rounded-sm"
-          width={200}
-          height={200}
-        /> */}
         <h1 className="text-4xl font-semibold mt-2">Priyankar Pal</h1>
 
         {/* for social media */}
@@ -97,7 +88,7 @@ export default function Home() {
 
           {/* community works */}
           <div className="space-y-3 ">
-            <p className="font-semibold">*working with communities</p>
+            <p className="font-semibold">## work experience</p>
             {/*  according to the date  */}
             <ReactPlay />
             <Hacktoberfest />
@@ -111,7 +102,7 @@ export default function Home() {
 
           {/* projects */}
           <div className="space-y-3 ">
-            <p className="font-semibold">*projects building</p>
+            <p className="font-semibold">## projects building</p>
             <ProjectsHut />
             <GoGreen />
             <p className="pl-2">
