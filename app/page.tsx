@@ -3,6 +3,7 @@ import Hacktoberfest from "@/components/community/hacktoberfest";
 import ReactPlay from "@/components/community/reactplay";
 import GoGreen from "@/components/projects/gogreen";
 import ProjectsHut from "@/components/projects/projectshut";
+import VotingApp from "@/components/projects/votingapp";
 export default function Home() {
   // social media links
   const github_url = "http://github.com/priyankarpal";
@@ -37,8 +38,7 @@ export default function Home() {
         {/*  about me */}
         <div className="mt-5 space-y-3">
           <p>
-            i do front-end development using next.js, tailwind css, typescript,
-            javascript etc & started learning back-end development. also, i am
+            i develop robust back-end applications using Express.js, TypeScript, MongoDB, Redis, and PostgreSQL.  also, i am
             an open source contributor & projects maintainer at{" "}
             <a
               href={projectshut_url}
@@ -63,6 +63,12 @@ export default function Home() {
             >
               hashnode.
             </a>
+
+          </p>
+          <p>
+            currently exploring operating system, computer networking, with a focus on continuous learning and growth.
+
+
           </p>
           <p>
             when i was in high school i developed my first cross platform app
@@ -88,7 +94,7 @@ export default function Home() {
 
           {/* community works */}
           <div className="space-y-3 ">
-            <p className="font-semibold">## work experience</p>
+            <p className="font-semibold text-xl">## work experience</p>
             {/*  according to the date  */}
             <ReactPlay />
             <Hacktoberfest />
@@ -102,11 +108,12 @@ export default function Home() {
 
           {/* projects */}
           <div className="space-y-3 ">
-            <p className="font-semibold">## projects building</p>
+            <p className="font-semibold text-xl">## projects</p>
             <ProjectsHut />
             <GoGreen />
+            <VotingApp />
             <p className="pl-2">
-              these two projects are like superheroes they&apos;ve successfully
+              these three projects are like superheroes they&apos;ve successfully
               completed their missions. as for the other projects, they&apos;re
               still in superhero training, so I didn&apos;t want to embarrass
               them by including here. Just kidding, they&apos;re just having a
