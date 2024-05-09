@@ -3,6 +3,7 @@ import Hacktoberfest from "@/components/community/hacktoberfest";
 import ReactPlay from "@/components/community/reactplay";
 import GoGreen from "@/components/projects/gogreen";
 import ProjectsHut from "@/components/projects/projectshut";
+import VotingApp from "@/components/projects/votingapp";
 export default function Home() {
   // social media links
   const github_url = "http://github.com/priyankarpal";
@@ -105,8 +106,9 @@ export default function Home() {
             <p className="font-semibold text-xl">## projects</p>
             <ProjectsHut />
             <GoGreen />
+            <VotingApp />
             <p className="pl-2">
-              these two projects are like superheroes they&apos;ve successfully
+              these three projects are like superheroes they&apos;ve successfully
               completed their missions. as for the other projects, they&apos;re
               still in superhero training, so I didn&apos;t want to embarrass
               them by including here. Just kidding, they&apos;re just having a
