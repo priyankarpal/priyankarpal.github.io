@@ -38,8 +38,7 @@ export default function Home() {
         {/*  about me */}
         <div className="mt-5 space-y-3">
           <p>
-            i do front-end development using next.js, tailwind css, typescript,
-            javascript etc & started learning back-end development. also, i am
+            i develop robust back-end applications using Express.js, TypeScript, MongoDB, Redis, and PostgreSQL.  also, i am
             an open source contributor & projects maintainer at{" "}
             <a
               href={projectshut_url}
@@ -64,6 +63,12 @@ export default function Home() {
             >
               hashnode.
             </a>
+
+          </p>
+          <p>
+            currently exploring operating system, computer networking, with a focus on continuous learning and growth.
+
+
           </p>
           <p>
             when i was in high school i developed my first cross platform app
