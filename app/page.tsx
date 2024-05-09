@@ -88,7 +88,7 @@ export default function Home() {
 
           {/* community works */}
           <div className="space-y-3 ">
-            <p className="font-semibold">## work experience</p>
+            <p className="font-semibold text-xl">## work experience</p>
             {/*  according to the date  */}
             <ReactPlay />
             <Hacktoberfest />
@@ -102,7 +102,7 @@ export default function Home() {
 
           {/* projects */}
           <div className="space-y-3 ">
-            <p className="font-semibold">## projects building</p>
+            <p className="font-semibold text-xl">## projects</p>
             <ProjectsHut />
             <GoGreen />
             <p className="pl-2">
