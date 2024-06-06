@@ -1,12 +1,10 @@
-# Priyankar Pal
-
 I develop robust back-end applications using Express.js, TypeScript, MongoDB, Redis, and PostgreSQL. also, an open source contributor & projects maintainer at [projectshut](https://github.com/priyankarpal/projectshut) & [reactplay.io](https://github.com/reactplay/react-play). sometimes I write on [hashnode.](https://itspp.hashnode.dev/)
 
-currently exploring operating system, system designs, with a focus on continuous learning and growth.
+I am currently exploring operating systems, and system designs, focusing on continuous learning and growth.
 
-when I was in high school, developed my first cross platform app using flutter & published to [play store.](https://play.google.com/store/apps/dev?id=7166668392984578038&gl=US) though the apps are simple, I learned new things that have inspired me a lot to work in tech.
+when I was in high school, developed my first cross-platform app using Flutter & published it to [Play Store.](https://play.google.com/store/apps/dev?id=7166668392984578038&gl=US) though the apps are simple, I learned new things that have inspired me a lot to work in tech.
 
-after joining university I developed a simple web page for a local client(e-rickshaws store) & earned a few bucks in freshman year. that year i participated first in person hackathon (mlh powered) with my teammates & we built a full stack level project. although we didn‘t win, but learned a lot from that hackathon.
+after joining the university I developed a simple web page for a local client(an e-rickshaws store) & earned a few bucks in my freshman year that year I participated first in-person hackathon (MLH powered) with my teammates & we built a full stack-level project. although we didn‘t win, we learned a lot from that hackathon.
 
 ## work experience
 
@@ -19,7 +17,7 @@ after joining university I developed a simple web page for a local client(e-rick
 
 ### [girlscript summer of code](https://github.com/priyankarpal/projectshut/discussions/415) (may. 2023 - aug. 2023)
 
-- Assigning, reviewing issues/PRs - Collaborating with others
+- Assigning, and reviewing issues/PRs - Collaborating with others
 - Reviewed more than 200+ issues and merged around 100+ PRs
 - Helped new contributors to get started with open-source contributions
 - Migrate the project from Reactjs to Nextjs TypeScript
@@ -34,7 +32,7 @@ after joining university I developed a simple web page for a local client(e-rick
 
 ### [Job Board Management](https://github.com/priyankarpal/jobboard-project-backend)
 
-- A job applications management tool that can help you to manage your jobs details
+- A job applications management tool that can help you manage your job details
 - Tech stack: Expressjs, TypeScript, Prisma, PostgreSQL, Redis, JWT, Docker
 
 ### [gogreen](https://github.com/priyankarpal/gogreen)
@@ -46,7 +44,7 @@ after joining university I developed a simple web page for a local client(e-rick
 
 ### [votingapp\_ backend](https://github.com/priyankarpal/voting-app)
 
-- Simple voting app, user can vote to a candidate once
+- Simple voting app, user can vote for a candidate once
 - Tech stack: Expressjs, MongoDB, JWT, Redis, Docker
 
 ## achievements
