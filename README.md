@@ -1,4 +1,7 @@
-I develop robust back-end applications using Express.js, TypeScript, MongoDB, Redis, and PostgreSQL. also, an open source contributor & projects maintainer at [projectshut](https://github.com/priyankarpal/projectshut) & [reactplay.io](https://github.com/reactplay/react-play). sometimes I write on [hashnode.](https://itspp.hashnode.dev/)
+[X](x.com/priyankarpal)  | [LinkedIn](https://www.linkedin.com/in/priyankarpal) | [GitHub](https://github.com/priyankarpal) | [Email](mailto:priyankarpal9@gmail.com)
+
+
+I develop robust back-end applications using Express.js, TypeScript, MongoDB, Redis, and PostgreSQL. also, an open source contributor & projects maintainer at [projectshut](https://github.com/priyankarpal/projectshut) & [reactplay.io](https://github.com/reactplay/react-play). sometimes I write on [hashnode.](https://ppal.hashnode.dev/)
 
 I am currently exploring operating systems, and system designs, focusing on continuous learning and growth.
 
