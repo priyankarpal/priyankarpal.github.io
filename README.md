@@ -1,15 +1,18 @@
-[X](https://x.com/priyankarpal)  | [LinkedIn](https://www.linkedin.com/in/priyankarpal) | [GitHub](https://github.com/priyankarpal) | [Email](mailto:priyankarpal9@gmail.com)
+[X](https://x.com/priyankarpal) | [LinkedIn](https://www.linkedin.com/in/priyankarpal) | [GitHub](https://github.com/priyankarpal) | [Email](mailto:priyankarpal9@gmail.com)
 
+<img src="https://github.com/igor-petruk/scriptisto/assets/88102392/0d93eb8e-5f62-4ed7-a54f-5804add17da7" alt="Profile Picture" width="300" align="right" style="margin-left: 20px;" />
 
-I develop robust back-end applications using Express.js, TypeScript, MongoDB, Redis, and PostgreSQL. also, an open source contributor & projects maintainer at [projectshut](https://github.com/priyankarpal/projectshut) & [reactplay.io](https://github.com/reactplay/react-play). sometimes I write on [hashnode.](https://ppal.hashnode.dev/)
+Hello,I am Priyankar Pal, undergraduate computer science and engineering student from India. I develop robust back-end applications using Nest.js, Express.js, TypeScript, MongoDB/PostgreSQL, Redis. Also, an open source contributor & projects maintainer at [projectshut](https://github.com/priyankarpal/projectshut) & [reactplay.io](https://github.com/reactplay/react-play). sometimes I share technical blogs on [hashnode.](https://ppal.hashnode.dev/)
 
 I am currently exploring operating systems, and system designs, focusing on continuous learning and growth.
 
 when I was in high school, developed my first cross-platform app using Flutter & published it to [Play Store.](https://play.google.com/store/apps/dev?id=7166668392984578038&gl=US) though the apps are simple, I learned new things that have inspired me a lot to work in tech.
 
-after joining the university I developed a simple web page for a local client(an e-rickshaws store) & earned a few bucks in my freshman year that year I participated first in-person hackathon (MLH powered) with my teammates & we built a full stack-level project. although we didn‘t win, we learned a lot from that hackathon.
+after joining the university I developed a simple web page for a local client(an e-rickshaws store) & earned a few bucks in my freshman year. I love to paricipate in hackathons(offline/online) so that year I participated first in-person hackathon (MLH powered) with my teammates & we built a full stack project although we didn‘t win, we learned a lot from that hackathon.
 
-## work experience
+# Work experience
+
+## Project Maintainer
 
 ### [reactplay.io](https://github.com/reactplay/react-play) (oct. 2023 - present)
 
@@ -18,6 +21,8 @@ after joining the university I developed a simple web page for a local client(an
 - Assign and review issues/pull requests to ensure code quality and project integrity.
 - Collaborate with fellow contributors to enhance the project’s functionality and performance.
 
+## Project Admin
+
 ### [girlscript summer of code](https://github.com/priyankarpal/projectshut/discussions/415) (may. 2023 - aug. 2023)
 
 - Assigning, and reviewing issues/PRs - Collaborating with others
@@ -25,7 +30,7 @@ after joining the university I developed a simple web page for a local client(an
 - Helped new contributors to get started with open-source contributions
 - Migrate the project from Reactjs to Nextjs TypeScript
 
-## projects
+# Projects
 
 ### [projectshut](https://github.com/priyankarpal/projectshut)
 
@@ -50,7 +55,7 @@ after joining the university I developed a simple web page for a local client(an
 - Simple voting app, user can vote for a candidate once
 - Tech stack: Expressjs, MongoDB, JWT, Redis, Docker
 
-## achievements
+## Achievements
 
 - Actively write [blog posts](https://ppal.hashnode.dev) on Hashnode viewed by over 10K+ users
 - Took a [session](https://gdsc.community.dev/events/details/developer-student-clubs-sb-jain-institute-of-technology-management-research-nagpur-presents-hacktoberfest-2023-your-open-source-odyssey-begins/) at GDSC SBJIT (Oct. 2023 ) about how to get started with open source and contributing
