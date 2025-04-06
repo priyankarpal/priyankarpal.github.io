@@ -5,31 +5,118 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Priyankar Pal</title>
+    <style>
+        body {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.4;
+        }
+
+        p {
+            margin-bottom: 15px;
+        }
+
+        ul {
+            padding-left: 25px;
+        }
+
+        ul li {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    </style>
 </head>
 
-<body
-    style="font-family: 'Times New Roman', Times, serif; justify-content: center; align-items: center; display: flex; flex-direction: column;">
-    <div
-        style="width: 35%;  margin-top: 2rem;  display: flex; align-items: center; justify-content: first flex-start; gap: 1rem; ">
-        <h2>Priyankar Pal</h2>
-        <ul
-            style="list-style-type:none; padding: 0; display: flex; align-items: center; justify-content: center; gap: 1rem;">
-            <li><a href="http://github.com/priyankarpal" target="_blank">GitHub</a></li>
-            <li><a href="http://x.com/priyankarpal" target="_blank">X</a></li>
-            <li><a href="https://ppal.hashnode.dev/" target="_blank">Blog</a></li>
-            <li><a href="http://linkedin.com/in/priyankarpal" target="_blank">LinkedIn</a></li>
-            <li><a href="mailto:priyankarpal9@gmail.com" target="_blank">Email</a></li>
+<body>
+    <main>
+        <a href="http://github.com/priyankarpal" target="_blank" rel="noopener noreferrer">
+            <img src="https://github.com/priyankarpal.png" alt="Priyankar Pal"
+                style="width: 250px; height: 250px; cursor: pointer" loading="lazy"
+                title="Hey there! Click to visit my GitHub profile 👋" />
+        </a>
 
+        <p>
+            Hi, I am Priyankar - a Software Engineer, an open-source contributor &
+            maintainer. I have worked with few startups.<br />You can reach me at
+            <a href="mailto:priyankarpal9@gmail.com">priyankarpal9[at]gmail[dot]com</a>,
+            <a href="http://linkedin.com/in/priyankarpal" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+            or message me on
+            <a href="https://x.com/priyankarpal" target="_blank"> X </a>
+        </p>
+
+        <div>Let me tell you a bit about myself:</div>
+        <ul>
+            <li>
+                Currently studying computer science and engineering at
+                <a href="https://www.swamivivekanandauniversity.ac.in" rel="noopener noreferrer"
+                    rel="noopener noreferrer" target="_blank">Swami Vivekananda University</a>
+            </li>
+            <li>I spend the best two hours of my day at the gym.</li>
+            <li>
+                Working on Backend systems, Cloud infrastructure and learning ai/ml.
+            </li>
         </ul>
-    </div>
 
-    <div style="display: flex; align-items: center; justify-content: center; width: 35%;">
+        <div>Here’s what I’m thinking:</div>
+        <ul>
+            <li>I love to learn new things and implement them in real life.</li>
+            <li>The best ideas are the ones we share.</li>
+            <li>
+                I love to contribute open-source projects & read research papers.
+            </li>
+        </ul>
 
-        <p>I am an engineer, open source contributor & maintainer. Lorem ipsum, dolor sit amet consectetur adipisicing
-            elit. Quam doloribus delectus id debitis dignissimos ut culpa, sed odio, alias sunt nisi nulla enim
-            consequuntur. Pariatur quae neque suscipit optio iusto.</p>
-    </div>
-    </div>
+        <div>Work Experience:</div>
+        <ul>
+            <li>
+                <b>Studio1HQ</b> - Software Developer (Freelance) ( March 2025 -
+                Present)
+            </li>
+            <li>
+                <b>Sukriya Pvt. Ltd.</b> - Software Engineer Intern (Jan 2025 - March
+                2025)
+            </li>
+            <li>
+                <b>Thinkit.club</b> - Software Engineer Intern (Oct 2024 - Dec 2024)
+            </li>
+            <li><b>Studio1HQ</b> - Technical Writer(Aug 2024)</li>
+        </ul>
+
+        <div>Research & Presentations:</div>
+        <ul>
+            <li>
+                Geolocation-Based QR Code Attendance System for Universities to
+                Mitigate Proxy Attendance
+                <ul>
+                    <li>
+                        Presented at 3rd International Conference on Engineering Design
+                        and Computing (ICEDC)-2025, Swami Vivekananda University, February
+                        2025
+                    </li>
+                </ul>
+            </li>
+        </ul>
+
+        <div>Achievements:</div>
+        <ul>
+            <li>
+                Took a virtual session at GDSC SBJIT (Oct. 2023) about how to get
+                started with open source and contributing to open source projects in
+                hacktoberfest 2023.
+            </li>
+            <li>
+                Won a Technical Writing challenge in February 2023, hosted by the
+                CoCode community and collaborated with Hashnode.
+                <a href="https://github.com/thecocode/blog-a-thon?tab=readme-ov-file#feb23" rel="noopener noreferrer"
+                    target="_blank">Link</a>
+            </li>
+        </ul>
+    </main>
+    <script>
+        const year=new Date().getFullYear();
+        document.write(`<footer>${year} @PriyankarPal</footer>`);
+    </script>
 </body>
 
 </html>
